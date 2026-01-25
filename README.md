@@ -6,7 +6,7 @@ An interactive Tableau dashboard analyzing FIFA 23 player data to evaluate perfo
 
 
 
-Project Overview**
+Project Overview
 
 This project focuses on transforming raw FIFA 23 player data into an **insight-driven Tableau dashboard**.  
 The objective is to help stakeholders identify emerging talent, assess player value relative to performance, and compare clubs and countries based on player quality.
