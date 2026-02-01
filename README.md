@@ -5,7 +5,7 @@
 
 
 <img width="1224" height="831" alt="Screenshot 2026-01-24 at 2 42 00 PM" src="https://github.com/user-attachments/assets/4d46a850-2e3f-4a92-95bd-00aac1c7b313" />
-# Inside FIFA 23 – Tableau Dashboard
+
 
 An **interactive Tableau dashboard** analyzing FIFA 23 player data to evaluate **performance, growth potential, wages, and market value**.  
 This project demonstrates **analytical thinking, data storytelling, and dashboard design** for decision-making use cases such as **scouting, player valuation, and team benchmarking**.
